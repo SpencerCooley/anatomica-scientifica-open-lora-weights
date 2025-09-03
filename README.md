@@ -12,6 +12,9 @@ microscopic detail, human brain, dissection, male figure, female figure, arterie
  
 I used different trigger words because I originally thought I trained it wrong the first two times, so changed the whole dataset. It is all explained in the blog post. [Link to Medium post](https://medium.com/@spencercooley/my-first-sdxl-lora-training-a-journey-through-frustration-to-a7238568f849)!
 
+test on civitai 
+https://civitai.com/models/1924370
+
 ## Example image results:
 
 ![Anatomical SDXL LoRA Illustration](samples/lady-anatomic.png)
